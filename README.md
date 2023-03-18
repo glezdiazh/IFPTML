@@ -1,5 +1,5 @@
 # IFPTML
-IFPTML: Information Fusion (IF), Perturbation Theory (PT), Machine Learning (ML) Software.
+SOFT.PTML: Information Fusion (IF), Perturbation Theory (PT), Machine Learning (ML) Software.
 
 González-Díaz coined the term IFPTML = Information Fusion (IF) + Perturbation Theory (PT) + Machine Learning (ML) to describe data analysis strategies/algorithm for the training/validation of multi-output models for multi-objective optimization in input/output multi-label problems using inofrmation from multiple sensors/sources. It means, IFPTML models can be used for multiple objective optimization/decission makig in the design, study, operation, or construction of a system/process by predicting with the same model multiple-ouputs for the same process/target system. IFPTML takes into consideration that this target system/process may has multiple subsystems and/or may be composed by multiple process steps/phases each one with multiple ouput/input variables and multiple conditional labelling variables.
 

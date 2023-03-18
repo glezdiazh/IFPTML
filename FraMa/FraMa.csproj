@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net46</TargetFramework>
+    <Authors>Bernabe Ortega-Tenezaca bernabe.ortega@udc.es, Viviana Quevedo viviana.quevedo@udc.es, Humberto Gonzalez-Diaz  humberto.gonzalezdiaz@ehu.es</Authors>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+    <Description></Description>
+    <Company>PTML Group Investigation</Company>
+    <Product>FRAMA :: Framework for Moving Average Calculation in Operators in Data Analysis</Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Accord" Version="3.8.0" />
+    <PackageReference Include="Accord.Math" Version="3.8.0" />
+    <PackageReference Include="EPPlus" Version="4.1.1" />
+    <PackageReference Include="MathNet.Numerics" Version="3.20.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Excel.4.5">
+      <HintPath>..\..\..\..\..\Downloads\output\net45\Excel.4.5.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Data.DataSetExtensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <HintPath>..\..\..\..\..\..\..\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.6.1\System.Windows.Forms.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

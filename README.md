@@ -1,11 +1,10 @@
-# IFPTML
-SOFT.PTML: Information Fusion (IF), Perturbation Theory (PT), Machine Learning (ML) Software.
+# SOFT.PTML: Information Fusion (IF), Perturbation Theory (PT), Machine Learning (ML) Software.
 
 Authors/Contributions:
 
-Bernabé Ortega-Tenezaca (Software Programming), GitHub: https://github.com/bernabeortega
+Bernabé Ortega-Tenezaca (1,2) (Software Programming), GitHub: https://github.com/bernabeortega
 
-Humbert González-Díaz (Software Design, Paper Writing, Project Supervision), GitHub: https://github.com/glezdiazh
+Humbert González-Díaz (1,3,4,5) (Software Design, Paper Writing, Project Supervision), GitHub: https://github.com/glezdiazh
 Linkedin: https://www.linkedin.com/in/humbertgdiaz/, Contact: humberto.gonzalezdiaz@ehu.eus
 
 1 Departament of Organic and Inorganic Chemistry, Facultyof Science and Technology, 
@@ -19,8 +18,9 @@ University CEU Cardenal Herrera, 46113, Moncada, Valencia, Spain.
 
 E: mail: humberto.gonzalezdiaz@ehu.es
 
+Background:
 
-González-Díaz coined the term NIFPTML = Network Invariant (NI) + Information Fusion (IF) + Perturbation Theory (PT) + Machine Learning (ML) to describe data analysis and multi-objective decission making strategies/algorithm for the training/validation of multi-output models for multi-objective optimization in input/output multi-label problems using information from multiple sensors/sources. It means, NIFPTML models can be used for multiple objective optimization/decission makig in the design, study, operation, or construction of a system/process by predicting with the same model multiple-ouputs for the same process/target system. NIFPTML takes into consideration that this target system/process may has multiple subsystems and/or may be composed by multiple process steps/phases each one with multiple ouput/input variables and multiple conditional labelling variables. As the name indicates NIFPTML algorithms include four main steps Network Invariant (NI) + Information Fusion (IF) + Perturbation Theory (PT) + Artificial Intelligence / Machine Learning (AI/ML).
+González-Díaz et al. coined the term NIFPTML = Network Invariant (NI) + Information Fusion (IF) + Perturbation Theory (PT) + Machine Learning (ML) to describe data analysis and multi-objective decission making strategies/algorithm for the training/validation of multi-output models for multi-objective optimization in input/output multi-label problems using information from multiple sensors/sources. It means, NIFPTML models can be used for multiple objective optimization/decission makig in the design, study, operation, or construction of a system/process by predicting with the same model multiple-ouputs for the same process/target system. NIFPTML takes into consideration that this target system/process may has multiple subsystems and/or may be composed by multiple process steps/phases each one with multiple ouput/input variables and multiple conditional labelling variables. As the name indicates NIFPTML algorithms include four main steps Network Invariant (NI) + Information Fusion (IF) + Perturbation Theory (PT) + Artificial Intelligence / Machine Learning (AI/ML).
 
 Network Invariant (NI): NI-phase focus on the conceptualization of the system as a network-like structured system susceptible of being represented/studied as a complex system with at leas one or more sub-systems that can be represented as networks/graphs and studied with graph theory. This stage includes the calculation of multiple invariants (numerical parameters) such as mean properties, spectral moments, entropies, centralities, etc. that will be used to quantify the structure of the system. Typical network-like systems and their graphs representations are drugs molecular graphs, proteins contact map networks, metabolic pathway networks, protein interaction networks, brain co-activation networks, production plants networks, disease spreading and social networks, etc.
 
